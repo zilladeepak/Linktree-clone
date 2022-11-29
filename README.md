@@ -1,6 +1,7 @@
 # Linktree-clone
 
 - Linktree is a tool that allows you to share multiple links on social media.
+- Link to the website: <a href="https://zilladeepak.github.io/Linktree-clone/">Here</a>
 - It is my second clone project.
 - It was built using HTML, CSS, JavaScript.
 - Javascript was used for copying the link to the clipboard.
